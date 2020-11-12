@@ -1,0 +1,41 @@
+h2 {
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 200;
+}
+body {
+  background: radial-gradient(circle, rgb(255,255,255) 0%, rgb(248, 219, 244) 50%, rgb(238, 180, 240) 100%);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 15%;
+}
+h3 {
+  font-style: oblique;
+  color: slategray;
+  font-size: 22px 
+}
+h4 {
+  font-style: oblique;
+  color: slategray;
+  font-size: 22px 
+}
+h5 {
+  font-style: oblique;
+  color: slategray;
+  font-size: 22px 
+}
+h1 {
+  font-size: 40px;
+  font-weight: 900;
+  font-color: darkslategray
+}
+ul {
+    padding: 0;
+    list-style-type: '*';
+    background-color: rgb(255,224,255, 0.35)
+
+
+
+
+
+
+}
